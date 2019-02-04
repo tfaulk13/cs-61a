@@ -1,2 +1,2 @@
 # cs-61a
-file repository for CS 61a, Fall 2018 
+repository for CS 61a, UCB Fall 2018 
